@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "fjfjty",
+      "content": "kgk",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "content": "Pellentesque habitant morbi tristique."
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "content": "Fusce feugiat malesuada odio."
+    }
+  ]
+}
